@@ -1,8 +1,8 @@
-# // Lab_04_1.cpp
+// Lab_04_1.cpp
 // < Tikhovsky Oleksiy  >
 // Лабораторна робота № 4.1
 // Цикли.
-// Варіант 22                                                                                                                       #include <iostream>
+// Варіант 22                                                                                                                                                                                               #include <iostream>
 #include <iostream>
 #include <cmath>
 using namespace std;
